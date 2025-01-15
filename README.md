@@ -1,9 +1,8 @@
 # for-7-points
-# WHILE-RETO-6
 
 =============================================================
 
-El objetivo era resolver el reto 6, el cual consistia en
+El objetivo era resolver el reto 7, el cual consistia en
 realizar algoritmos que cumplieran con las necesidades 
 planteadas en cada punto, y para los primeros 3 puntos
 adjuntar un .
